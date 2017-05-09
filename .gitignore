@@ -12,6 +12,8 @@
 bin/
 gen/
 out/
+res/
+libs/
 
 # Gradle files
 .gradle/
