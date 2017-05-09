@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="yumi_adapter_baidu_v1.7.1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/yumiAdsSDKDemo_1.8.0/libs/yumi_adapter_baidu_v1.7.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

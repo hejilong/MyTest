@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="miadtracker">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/YumiAdsSDK_1.8.0/libs/miadtracker.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

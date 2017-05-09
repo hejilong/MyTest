@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="protobuf-java-2.3.0-thin">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/YumiAdsSDK_1.8.0/libs/protobuf-java-2.3.0-thin.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

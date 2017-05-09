@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.yumi.android.sdk.ads"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="14"
+        android:targetSdkVersion="21" />
+
+    <application
+        android:allowBackup="true"
+        android:theme="@style/AppTheme" >
+        <instrumentation
+            android:name="android.test.InstrumentationTestRunner"
+            android:targetPackage="com.yumi.android.sdk.ads" >
+        </instrumentation>
+        
+        <meta-data
+            android:name="com.google.android.gms.version"
+            class="kix-line-break"
+            android:value="@integer/google_play_services_version" />
+        
+        <uses-library android:name="android.test.runner" />
+    </application>
+
+</manifest>
